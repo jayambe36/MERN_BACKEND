@@ -1,0 +1,2 @@
+$node nodefirst.js
+$node filename.js
