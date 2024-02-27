@@ -1,0 +1,9 @@
+//right click on folder :: click on open in integreted terminal
+
+$npm init
+```to accept the default values for the package.json file``` 
+
+
+https://www.npmjs.com/package/figlet
+$npm i figlet
+
