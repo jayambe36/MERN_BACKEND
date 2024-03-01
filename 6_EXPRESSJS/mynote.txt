@@ -1,0 +1,10 @@
+middleware is heart and soul of the express js
+//middleware is a function that has access to the request and response object
+//every middleware has access to the next function
+//middleware can end the response cycle
+//middleware can pass the control to the next middleware function
+
+
+1. custom middlewares
+2. built in middlewares
+3. third party middlewares

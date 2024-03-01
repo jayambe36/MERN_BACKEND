@@ -1,0 +1,11 @@
+{
+  "name": "smitcalc",
+  "version": "1.0.0",
+  "description": "This is Calculator Module developer by Smit PATEL during learning nodejs and npm module. This package create for learning how to make and lunch npm package and contribute to the Open Source Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Smit PATEL",
+  "license": "ISC"
+}
