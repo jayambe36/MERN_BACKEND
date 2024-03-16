@@ -9,12 +9,22 @@
 
 const express = require('express')
 
+const MyMiddlewareFunction = require('./middlewares/middle')
+
+
+
+
 const app = express()
+
+
 
 
 //get,post, put , delete
 
 app.use(express.json())
+
+app.use(MyMiddlewareFunction)
+
 
 //custom middleware --start--
 app.use(function(req, res, next){
